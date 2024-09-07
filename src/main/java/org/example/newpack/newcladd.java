@@ -6,8 +6,11 @@ public class newcladd {
         int i=10;
         int a =20;
         int b=30;
+        ayaan();
     }
    static void  rumman(){
 
+    }
+    static void  ayaan(){
     }
 }
