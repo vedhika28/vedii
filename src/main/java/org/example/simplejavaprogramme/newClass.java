@@ -8,6 +8,7 @@ public class newClass {
        System.out.println(newClass.i);
        System.out.println("25");
        //hiiggggggjhgjv
+        //addedcommsnf
 
     }
 }
