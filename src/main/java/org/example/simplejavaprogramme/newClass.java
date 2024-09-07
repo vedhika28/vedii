@@ -7,7 +7,7 @@ public class newClass {
         newClass newClass = new newClass();
        System.out.println(newClass.i);
        System.out.println("25");
-       //hiigggggg
+       //hiiggggggjhgjv
 
     }
 }
